@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nearby</string>
+    <string name="menu_sair">Sair</string>
+
+    <!-- Classe MainActivity -->
+    <string name="main_carregando_imagens">loading image &#8230;</string>
+    <string name="main_conectado_como">Connected as: </string>
+    <string name="main_nao_conectado">Connection failed. </string>
+    <string name="main_deseja_logout">Are you sure you want to disconnect?</string>
+    <string name="main_sim">Yes</string>
+    <string name="main_nao">No</string>
+    
+    <!-- Classe FoursquareApp -->
+    <string name="fsqApp_falha_autorizacao">Authorization failed.</string>
+    <string name="fsqApp_acessando_autorizacao">Getting access token &#8230;</string>
+    <string name="fsqApp_acessando_autorizacao_falha">Failed to get access token &#8230;</string>
+    <string name="fsqApp_finalizando_acesso">Finalizing &#8230;</string>
+    <string name="fsqApp_nome_nao_cadastrado">Name is not registered!</string>
+    <string name="fsqApp_url_nao_cadastrado">URL is not registered!</string>
+    <string name="fsqApp_endereco_nao_cadastrado">Address is not registered!</string>
+    <string name="fsqApp_checkin_nao_cadastrado">No check-in counter!</string>
+    
+    <!-- Classe LocaisActivity -->
+    <string name="locais_buscando_locais">Loading locations nearby &#8230;</string>
+    
+    <!-- Classe LocaisAdapter -->
+    <string name="locais_restantes">remaining places</string>
+    <string name="locais_ultimo_local">place remaining</string>
+    
+    <!-- Classe LocaisAdapter -->
+    <string name="fsqDialog_carregando">Loading &#8230;</string>
+    
+    <!-- Classe LogoutActivity -->
+    <string name="logout">Wait while logout &#8230;</string>
+
+</resources>

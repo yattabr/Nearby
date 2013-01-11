@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nearby</string>
+    <string name="menu_sair">Sair</string>
+    
+    <!-- Classe MainActivity -->
+    <string name="main_carregando_imagens">carregando imagem &#8230;</string>
+    <string name="main_conectado_como">Conectado como: </string>
+    <string name="main_nao_conectado">Não foi possivel se contectar.</string>
+    <string name="main_deseja_logout">Tem certeza que deseja se desconectar?</string>
+    <string name="main_sim">Sim</string>
+    <string name="main_nao">Não?</string>
+
+    <!-- Classe FoursquareApp -->
+    <string name="fsqApp_falha_autorizacao">Falha na autorização.</string>
+    <string name="fsqApp_acessando_autorizacao">Acessando autorização &#8230;</string>
+    <string name="fsqApp_acessando_autorizacao_falha">Falha ao tentar acessar autorização &#8230;</string>
+    <string name="fsqApp_finalizando_acesso">Finalizando &#8230;</string>
+    <string name="fsqApp_nome_nao_cadastrado">Nome não cadastrado!</string>
+    <string name="fsqApp_url_nao_cadastrado">URL não cadastrada!</string>
+    <string name="fsqApp_endereco_nao_cadastrado">Endereço não cadastrada!</string>
+    <string name="fsqApp_checkin_nao_cadastrado">Sem contador de chekin!</string>
+
+    <!-- Classe LocaisActivity -->
+    <string name="locais_buscando_locais">Carregando locais proximos &#8230;</string>
+    
+    <!-- Classe LocaisAdapter -->
+    <string name="locais_restantes">Locais Restantes</string>
+    <string name="locais_ultimo_local">Local Restante</string>
+    
+    <!-- Classe LocaisAdapter -->
+    <string name="fsqDialog_carregando">Carregando &#8230;</string>
+    
+    <!-- Classe LogoutActivity -->
+    <string name="logout">Deslogando &#8230;</string>
+    
+</resources>
